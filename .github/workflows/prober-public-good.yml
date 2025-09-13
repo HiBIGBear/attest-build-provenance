@@ -1,6 +1,6 @@
 name: Public-Good Sigstore Prober
 
-on:
+on: 
   workflow_dispatch:
   schedule:
     # run every 5 minutes, as often as Github Actions allows
