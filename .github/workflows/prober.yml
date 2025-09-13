@@ -1,6 +1,6 @@
 name: Prober Workflow
 
-on:
+on: 
   workflow_call:
     inputs:
       sigstore:
