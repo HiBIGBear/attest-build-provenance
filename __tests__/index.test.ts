@@ -1,4 +1,4 @@
-/**
+/** 
  * Unit tests for the action's entrypoint, src/index.ts
  */
 
