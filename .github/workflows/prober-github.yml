@@ -1,5 +1,5 @@
 name: GitHub Sigstore Prober
-
+ 
 on:
   workflow_dispatch:
   schedule:
