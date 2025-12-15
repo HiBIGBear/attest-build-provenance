@@ -71,7 +71,7 @@
   },
   "dependencies": {
     "@actions/attest": "^1.6.0",
-    "@actions/core": "^1.11.1"
+    "@actions/core": "^2.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
